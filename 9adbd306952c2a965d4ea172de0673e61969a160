@@ -1,0 +1,19 @@
+src/server/nest/middleware/visitor-auth.middleware.ts
+  s_eeb4c7ed6a59ff::t_eae67218ef60b8 65-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9adbd306952c2a965d4ea172de0673e61969a160",
+  "prompts": {},
+  "sessions": {
+    "s_eeb4c7ed6a59ff": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f7a4-de31-7ef1-8871-757d20bbf445",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "xinrui.an <xinrui.an01@lkcoffee.com>"
+    }
+  }
+}
